@@ -1,0 +1,1 @@
+# Tugas-2-Preprocess-Dan-Klasifikasi-Citra-Digital-Dengan-Tensorflow
